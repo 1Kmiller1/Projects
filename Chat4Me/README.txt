@@ -1,0 +1,1 @@
+A Texting App That Utilizes AI to create automatic reply's to assist the user while driving. can be set to automatically send reply's but since its AI its not entirely Recommended. Install Instructions are in the CHAT-4-ME file. I'm unsure if the AI key still works for the App
