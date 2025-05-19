@@ -1,0 +1,3 @@
+#Project
+
+Just started working on a clone of the game Enter The Gungeon. a procedurally generated, rogue like, bullet hell, top down shooter. offers some changeling mechanics for me to engage with and implement and maybe eventually I can turn this into my own take on the game. I just started the research phase finding the best game engine and figuring out how I want to game to run.

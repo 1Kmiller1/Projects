@@ -15,4 +15,4 @@ Airport Manager : Java
 Favorite project in my favorite language I have done. though ended up becoming extra credit due to having a large scope for a 2 week project. I did my half of the work though my partner didn't do there's before the project was canceled so all the work is mine and though it is half done I'm still proud of the work.
 
 Santa : Java
-A personal project that took about 3 hours. it takes a list of names and will create a lift of who is giving what present to how for Secret Santa.
+A personal project that took about 3 hours. it takes a list of names and will create a lift of who is giving what present to for Secret Santa.

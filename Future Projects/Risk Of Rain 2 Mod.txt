@@ -1,0 +1,3 @@
+#Project
+
+Risk of Rain have a decent modding community and while the process is complicated I'm looking into creating a simple mod  that might add an item or two. eventually might be fun to create a new character for the game but first I need to learn how the 3D molding works.
